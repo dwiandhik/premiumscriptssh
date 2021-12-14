@@ -21,7 +21,7 @@ port 587
 auth on
 user datavps1997@gmail.com
 from datavps1997@gmail.com
-password Akudankamu 
+password otimhmahzfsevwlg 
 logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
